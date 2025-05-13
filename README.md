@@ -29,9 +29,4 @@ No additional packages required.
   ```bash
 python guess_game.py
 
-4. output
-guess the number: 5
-guess the number: 3
-guess the number: 8
-Your guess is incorrect. The number is 7
 
