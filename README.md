@@ -26,7 +26,7 @@ No additional packages required.
    cd Gussing-the-number-Game
 
 3.Run the game:
-     ```bash
-     python guess_game.py
+   ```bash
+   python guess_game.py
 
 
